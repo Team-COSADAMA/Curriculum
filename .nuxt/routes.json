@@ -1,0 +1,58 @@
+[
+  {
+    "name": "basic-r-slug",
+    "path": "/basic-r/:slug?",
+    "component": "/Users/penielcho/Downloads/GitFolder/curriculum-cosadama-restored/pages/basic-r/_slug.vue",
+    "chunkName": "pages/basic-r/_slug",
+    "_name": "_9ce3c3be"
+  },
+  {
+    "name": "basic-sql-slug",
+    "path": "/basic-sql/:slug?",
+    "component": "/Users/penielcho/Downloads/GitFolder/curriculum-cosadama-restored/pages/basic-sql/_slug.vue",
+    "chunkName": "pages/basic-sql/_slug",
+    "_name": "_4661b17d"
+  },
+  {
+    "name": "git-slug",
+    "path": "/git/:slug?",
+    "component": "/Users/penielcho/Downloads/GitFolder/curriculum-cosadama-restored/pages/git/_slug.vue",
+    "chunkName": "pages/git/_slug",
+    "_name": "_2f7c4bc0"
+  },
+  {
+    "name": "intro-ds-slug",
+    "path": "/intro-ds/:slug?",
+    "component": "/Users/penielcho/Downloads/GitFolder/curriculum-cosadama-restored/pages/intro-ds/_slug.vue",
+    "chunkName": "pages/intro-ds/_slug",
+    "_name": "_6d623b48"
+  },
+  {
+    "name": "machine-learning-slug",
+    "path": "/machine-learning/:slug?",
+    "component": "/Users/penielcho/Downloads/GitFolder/curriculum-cosadama-restored/pages/machine-learning/_slug.vue",
+    "chunkName": "pages/machine-learning/_slug",
+    "_name": "_2977979c"
+  },
+  {
+    "name": "python-slug",
+    "path": "/python/:slug?",
+    "component": "/Users/penielcho/Downloads/GitFolder/curriculum-cosadama-restored/pages/python/_slug.vue",
+    "chunkName": "pages/python/_slug",
+    "_name": "_0d6a6a58"
+  },
+  {
+    "name": "scrapy-slug",
+    "path": "/scrapy/:slug?",
+    "component": "/Users/penielcho/Downloads/GitFolder/curriculum-cosadama-restored/pages/scrapy/_slug.vue",
+    "chunkName": "pages/scrapy/_slug",
+    "_name": "_0959d5c0"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/penielcho/Downloads/GitFolder/curriculum-cosadama-restored/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7fadfae5"
+  }
+]

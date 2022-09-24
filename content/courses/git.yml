@@ -1,0 +1,19 @@
+name: '깃, 깃헙 입문'
+description: 버전관리 협업툴의 처음이자 끝, 깃과 깃헙의 기초적인 사용법을 공부합니다.
+authors: ['조용주', '김가윤']
+testers: ['이정윤']
+slug: git
+image: git.png
+order: 5
+category: [
+  "0. 추천 학습 가이드",
+  "1. Git 환경 세팅",
+  "2. Git 기본 개념",
+  "3. Git CLI 명령어",
+  "4. Git GUI 사용법",
+  "5. GitHub 필수 기능",
+  "6. 실습",
+  "7. 기타"
+  ]
+betaTest: '업데이트 중'
+type: 'Original'

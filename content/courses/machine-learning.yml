@@ -1,0 +1,11 @@
+name: '머신러닝 입문'
+description: 머신러닝 입문 과정입니다.
+authors: ['정찬', '이정윤', '나다경']
+slug: machine-learning
+image: not-ready.png
+order: 3
+category: [
+  "0. 추천 학습 가이드",
+  ]
+betaTest: '검수 전'
+type: 'Original'

@@ -1,0 +1,20 @@
+name: '데이터 사이언스 입문'
+description: 데이터 크롤링부터 데이터 분석까지 공부하는 데이터 사이언스 입문 과정입니다.
+authors: ['정찬', '송혜민', '김윤진']
+slug: intro-ds
+image: intro-ds.png
+order: 2
+category: [
+  "0. 추천 학습 가이드",
+  "1. Pandas_준비",
+  "2. Pandas_활용",
+  "3. Numpy",
+  "4. Matplotlib",
+  "5. [프로젝트] 서울시 구별 CCTV 현황 분석",
+  "6. [프로젝트] 서울시 범죄 현황 분석",
+  "7. 웹 크롤링과 정규 표현식",
+  "8. [프로젝트1] 시카고 샌드위치 맛집 분석",
+  "9. [프로젝트2] 셀프 주유소는 정말 저렴할까?"
+  ]
+betaTest: '검수 완료'
+type: 'Original'

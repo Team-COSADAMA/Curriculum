@@ -1,0 +1,59 @@
+{
+  "Close": {
+    "description": "Auto imported from components/Close.vue"
+  },
+  "CourseHeader": {
+    "description": "Auto imported from components/CourseHeader.vue"
+  },
+  "Featured": {
+    "description": "Auto imported from components/Featured.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "FooterFull": {
+    "description": "Auto imported from components/FooterFull.vue"
+  },
+  "FooterLogo": {
+    "description": "Auto imported from components/FooterLogo.vue"
+  },
+  "FooterLogo1": {
+    "description": "Auto imported from components/FooterLogo1.vue"
+  },
+  "Footeralt": {
+    "description": "Auto imported from components/Footeralt.vue"
+  },
+  "GithubLogo": {
+    "description": "Auto imported from components/GithubLogo.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "HeaderAlt": {
+    "description": "Auto imported from components/HeaderAlt.vue"
+  },
+  "HeaderLogo": {
+    "description": "Auto imported from components/HeaderLogo.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "Menu": {
+    "description": "Auto imported from components/Menu.vue"
+  },
+  "Prevnext": {
+    "description": "Auto imported from components/Prevnext.vue"
+  },
+  "Search": {
+    "description": "Auto imported from components/Search.vue"
+  },
+  "SearchIcon": {
+    "description": "Auto imported from components/SearchIcon.vue"
+  },
+  "SocialHead": {
+    "description": "Auto imported from components/SocialHead.vue"
+  },
+  "Warning": {
+    "description": "Auto imported from components/Warning.vue"
+  }
+}
