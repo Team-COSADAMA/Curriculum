@@ -1,11 +1,13 @@
-name: '머신러닝 입문'
-description: 머신러닝 입문 과정입니다.
+name: '머신러닝, 개념과 실습을 한번에'
+description: 머신러닝의 대표 알고리즘을 sklearn을 중심으로 개념과 실습을 한번에 학습합니다.
 authors: ['정찬', '이정윤', '나다경']
 slug: machine-learning
 image: not-ready.png
 order: 3
 category: [
   "0. 추천 학습 가이드",
+  "1. 머신러닝Machine Learning이란",
+  "2. 분류Classification",
+  "3. 회귀Regression",
+  "4. 군집화Clustering"
   ]
-betaTest: '검수 전'
-type: 'Original'
