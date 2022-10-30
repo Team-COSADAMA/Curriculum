@@ -6,8 +6,8 @@ image: not-ready.png
 order: 3
 category: [
   "0. 추천 학습 가이드",
-  "1. 머신러닝Machine Learning이란",
-  "2. 분류Classification",
-  "3. 회귀Regression",
-  "4. 군집화Clustering"
+  "1. 머신러닝이란?",
+  "2. 분류(Classification)",
+  "3. 회귀(Regression)",
+  "4. 군집화(Clustering)"
   ]
