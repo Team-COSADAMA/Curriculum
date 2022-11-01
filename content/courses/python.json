@@ -19,5 +19,6 @@
         "7. 함수"
     ],
     "betaTest" : "검수 완료",
-    "type" : "Original"
+    "type" : "Original",
+    "published": true
 }

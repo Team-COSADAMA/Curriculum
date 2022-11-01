@@ -4,14 +4,14 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _9ce3c3be = () => interopDefault(import('../pages/basic-r/_slug.vue' /* webpackChunkName: "pages/basic-r/_slug" */))
-const _4661b17d = () => interopDefault(import('../pages/basic-sql/_slug.vue' /* webpackChunkName: "pages/basic-sql/_slug" */))
-const _2f7c4bc0 = () => interopDefault(import('../pages/git/_slug.vue' /* webpackChunkName: "pages/git/_slug" */))
-const _6d623b48 = () => interopDefault(import('../pages/intro-ds/_slug.vue' /* webpackChunkName: "pages/intro-ds/_slug" */))
-const _2977979c = () => interopDefault(import('../pages/machine-learning/_slug.vue' /* webpackChunkName: "pages/machine-learning/_slug" */))
-const _0d6a6a58 = () => interopDefault(import('../pages/python/_slug.vue' /* webpackChunkName: "pages/python/_slug" */))
-const _0959d5c0 = () => interopDefault(import('../pages/scrapy/_slug.vue' /* webpackChunkName: "pages/scrapy/_slug" */))
-const _7fadfae5 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
+const _f403990c = () => interopDefault(import('../pages/basic-r/_slug.vue' /* webpackChunkName: "pages/basic-r/_slug" */))
+const _81bc56d4 = () => interopDefault(import('../pages/basic-sql/_slug.vue' /* webpackChunkName: "pages/basic-sql/_slug" */))
+const _1f86f80e = () => interopDefault(import('../pages/git/_slug.vue' /* webpackChunkName: "pages/git/_slug" */))
+const _26f4d10f = () => interopDefault(import('../pages/intro-ds/_slug.vue' /* webpackChunkName: "pages/intro-ds/_slug" */))
+const _46d77663 = () => interopDefault(import('../pages/machine-learning/_slug.vue' /* webpackChunkName: "pages/machine-learning/_slug" */))
+const _f773b34a = () => interopDefault(import('../pages/python/_slug.vue' /* webpackChunkName: "pages/python/_slug" */))
+const _d7559d72 = () => interopDefault(import('../pages/scrapy/_slug.vue' /* webpackChunkName: "pages/scrapy/_slug" */))
+const _669d0d84 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
 
@@ -26,35 +26,35 @@ export const routerOptions = {
 
   routes: [{
     path: "/basic-r/:slug?",
-    component: _9ce3c3be,
+    component: _f403990c,
     name: "basic-r-slug"
   }, {
     path: "/basic-sql/:slug?",
-    component: _4661b17d,
+    component: _81bc56d4,
     name: "basic-sql-slug"
   }, {
     path: "/git/:slug?",
-    component: _2f7c4bc0,
+    component: _1f86f80e,
     name: "git-slug"
   }, {
     path: "/intro-ds/:slug?",
-    component: _6d623b48,
+    component: _26f4d10f,
     name: "intro-ds-slug"
   }, {
     path: "/machine-learning/:slug?",
-    component: _2977979c,
+    component: _46d77663,
     name: "machine-learning-slug"
   }, {
     path: "/python/:slug?",
-    component: _0d6a6a58,
+    component: _f773b34a,
     name: "python-slug"
   }, {
     path: "/scrapy/:slug?",
-    component: _0959d5c0,
+    component: _d7559d72,
     name: "scrapy-slug"
   }, {
     path: "/",
-    component: _7fadfae5,
+    component: _669d0d84,
     name: "index"
   }],
 

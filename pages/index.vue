@@ -61,6 +61,7 @@ export default {
     async asyncData({ $content, params }) {
         const courses = await $content('courses', params.id)
         .sortBy('order', 'asc')
+        .where({ published: true })
         .fetch();
         return { courses }
     },
