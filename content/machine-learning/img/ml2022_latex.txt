@@ -1,0 +1,57 @@
+\begin{equation}
+정확도Accuracy = {올바르게 예측된 데이터수 \over 전체 데이터 수} = {TP + TN \over TP+TN+FP+FN}
+\end{equation}
+
+\begin{equation}
+정확도Accuracy = {올바르게 예측된 데이터수 \over 전체 데이터 수} = {TP + TN \over TP+TN+FP+FN}
+\end{equation}
+
+\begin{equation}
+정확도Accuracy = {TP + TN \over TP+TN + FP + FN} = {P/N 모두 정답으로 예측T \over 전체 예측}
+\end{equation}
+
+\begin{equation}
+정밀도Precision = {TP \over FP + TP} = {맞다고 예측P하고 실제로 맞은T 것 \over {맞다고 예측한 것}}
+\end{equation}
+
+\begin{equation}
+재현율Recall = {TP \over FN + TP} = {맞다P고 예측하고 실제로 맞은T 것 \over 예측이 참인 것}
+\end{equation}
+
+\begin{equation}
+오류율Error Rate = {FN + FP \over TN + FP + FN + TP} = {P/N 모두 오답으로 예측F \over 전체 예측}
+\end{equation}
+
+    \begin{equation}
+Specificity =    \frac{\text{TN}}{\text{TN}+\text{FP}}
+    \end{equation}
+
+    \begin{equation}
+FalsePositiveRate =    \frac{\text{FP}}{\text{FP}+\text{TN}} = 1-TNR
+    \end{equation}
+
+# std scaler
+\begin{equation}
+x_i^{'} = \frac{x_i-mean(x)}{stdev(x)}
+\end{equation}
+
+
+# minmax scaler
+\begin{equation}
+x_i^{'} = \frac{x_i-min(x)}{max(x)-min(x)}
+\end{equation}
+
+# robust scaler
+\begin{equation}
+x_i^{'} = \frac{x_i-Q_2}{Q_3-Q_1}
+\end{equation}
+
+# maxabs scaler
+\begin{equation}
+x_i^{'} = 2\big(\frac{x_i-x_{min}}{x_{max}-x_{min}}\big)
+\end{equation}
+
+# variance Threshold
+\begin{equation}
+{Var}[X] = p(1 - p)
+\end{equation}
