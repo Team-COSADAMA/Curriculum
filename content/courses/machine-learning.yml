@@ -2,7 +2,7 @@ name: '머신러닝, 개념과 실습을 한번에'
 description: 머신러닝의 대표 알고리즘을 sklearn을 중심으로 개념과 실습을 한번에 학습합니다.
 authors: ['정찬', '이정윤', '나다경']
 slug: machine-learning
-image: not-ready.png
+image: machine-learning.png
 order: 3
 category: [
   "0. 추천 학습 가이드",
@@ -11,3 +11,6 @@ category: [
   "3. 회귀(Regression)",
   "4. 군집화(Clustering)"
   ]
+betaTest: '검수 전'
+type: 'Original'
+published: true
