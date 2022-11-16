@@ -1,6 +1,6 @@
 # COSADAMA Curriculum
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 코사다마의 오픈소스 커리큘럼을 보다 쉽게 공부할 수 있도록 만들어진 웹 공간입니다. (GitBook like docs site template built with Nuxt Content + Tailwind CSS)
@@ -28,6 +28,7 @@ $ npm run dev
   <tbody>
     <tr>
       <td align="center"><a href="https://github.com/thepenielcho"><img src="https://avatars.githubusercontent.com/u/60251602?v=4?s=100" width="100px;" alt="Peniel Cho &#124; 조용주"/><br /><sub><b>Peniel Cho &#124; 조용주</b></sub></a><br /><a href="https://github.com/Team-COSADAMA/Curriculum/commits?author=thepenielcho" title="Code">💻</a></td>
+      <td align="center"><a href="https://blog.naver.com/cathx618"><img src="https://avatars.githubusercontent.com/u/68316386?v=4?s=100" width="100px;" alt="JeongYun Lee"/><br /><sub><b>JeongYun Lee</b></sub></a><br /><a href="https://github.com/Team-COSADAMA/Curriculum/commits?author=JeongYunLee" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
