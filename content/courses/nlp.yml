@@ -1,0 +1,17 @@
+
+name: '자연어처리 시작하기'
+description: 'Python을 활용하여 자연어처리 기초부터 활용까지 공부합니다.'
+authors: ['이정윤']
+slug: 'nlp'
+image: 'nlp.png'
+order: 7
+category: [
+  "0. 추천 학습 가이드",
+  "1. 자연어처리 기초 개념",
+  "2. 전처리(Preprocessing)",
+  "3. 임베딩(Embedding)",
+  "4. 자연어처리 활용하기"
+  ]
+betaTest: '제작 중'
+type: 'Original'
+published: true
